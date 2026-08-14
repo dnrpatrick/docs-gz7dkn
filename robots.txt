@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-rcome6.yoursingles.online/sitemap.xml
